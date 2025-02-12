@@ -1,0 +1,7 @@
+COLLECTION_VOTES = 'votes'
+FIELD_ID = 'id'
+FIELD_CANDIDATE_ID = 'candidate_id'
+FIELD_PRECINCT_ID = 'precinct_id'
+FIELD_BARANGAY_ID = 'barangay_id'
+FIELD_VOTES_COUNT = 'votes_count'
+FIELD_LAST_UPDATED = 'last_updated'
