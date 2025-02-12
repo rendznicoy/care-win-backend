@@ -1,0 +1,5 @@
+COLLECTION_PRECINCTS = 'precincts'
+FIELD_ADMIN_ID = 'admin_id'
+FIELD_BARANGAY_ID = 'barangay_id'
+FIELD_ID = 'id'
+FIELD_UPDATED_AT = 'updated_at'
