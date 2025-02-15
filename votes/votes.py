@@ -11,7 +11,7 @@ class Vote(BaseModel):
     precinct_id: str  # Foreign Key reference to precincts
     barangay_id: str  # Foreign Key reference to barangays
     votes_count: int
-    last_updated: Optional[str] = None
+    updated_at: Optional[str] = None
 
 # TODO: Add collection reference
 
