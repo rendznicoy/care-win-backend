@@ -8,7 +8,7 @@ The User entity represents system administrators with varying levels of access c
 |active |boolean|true       |false      |`false` if the user has been deleted|
 |details|string |false      |false      |Any details you want to store about the user, such as an address|
 |email  |string |false      |false      |Primary email address used for authentication|
-|id     |string |false      |true       |Unique user identifier used as a Firestore document ID|
+|id     |string |true       |false      |Unique user identifier|
 |name   |string |false      |true       |Full name of the user|
 |phone  |string |false      |false      |Contact number|
 |photo_url|string|false     |false      |A URL pointing to the user's profile picture|
